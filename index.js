@@ -21,4 +21,4 @@ if (cmd === "whatisstevenuniverse") {
   const msg = await message.channel.send('Steven universe is a show on cartoon network. The show came out in May 21, 2013, There is also a movie of it called Steven universe the movie. and you can also you could watch steven universe the movie on that website!')
 
 
-client.login('NjI4NjA3MTkyODA2OTgxNjMy.XZNyCw.cNjUuecSjTtPdMUK76nm1bVLqBc')
+client.login('NjI4NjA3MTkyODA2OTgxNjMy.XswewQ.q7RWAXiBS4Tel12EWuJjsXs6qzM')
